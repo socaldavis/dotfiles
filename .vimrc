@@ -8,10 +8,9 @@ set number
 set nowrap
 set hidden
 set incsearch
-set colorcolumn=80
+set colorcolumn=120
 set noerrorbells
 set scrolloff=8
-"highlight ColorColumn ctermbg=0 guibg=lightgrey
 
 syntax on
 
